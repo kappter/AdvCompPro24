@@ -6,5 +6,7 @@ A seven letter word guessing game resembling the logic of Wordle in a command li
 
 ![Game Play](https://github.com/kappter/AdvCompPro24/blob/main/images/obsurdle.png?raw=true)
 
+![Logic Flow](https://github.com/kappter/AdvCompPro24/blob/main/images/WordGameFlowchart.png?raw=true)
+
 [Source Code Here](https://github.com/kappter/AdvCompPro24/tree/main/src/Obsurdle)
 
